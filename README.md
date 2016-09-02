@@ -1,6 +1,6 @@
 # SwitchExpression
-Very simple class that helps generating expression that execute as switch
-It's just kind of snippet
+Very simple class that helps generating expression that execute as switch <br/>
+It's just kind of snippet<br/>
 How to use:
 ```C#
   // 1st generic parameter is switch value tester, so switch(T) = int - in this case
