@@ -7,7 +7,7 @@ using System.Text;
 namespace SwitchExpression
 {
     /// <summary>
-    /// Very simple class that helps generating expression that execute as switch 
+    /// Helps generating expression that execute as switch 
     /// </summary>
     /// <typeparam name="TestT">The type of switch test value.</typeparam>
     /// <typeparam name="T">The type of action invoked in selected case in switch</typeparam>
