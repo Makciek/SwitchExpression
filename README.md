@@ -14,5 +14,5 @@ How to use:
   var compiled = ExpGen.Generate();
   
   // use it:
-  compiled.Invoke(1, "1Test!"); // value for switch, date provided to invoked lambda
+  compiled.Invoke(1, "1Test!"); // value for switch, data provided to invoked lambda
 ```
